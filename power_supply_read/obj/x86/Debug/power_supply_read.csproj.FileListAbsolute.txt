@@ -1,0 +1,10 @@
+C:\Letov2\tools\power_supply_read\power_supply_read\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Letov2\tools\power_supply_read\power_supply_read\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Letov2\tools\power_supply_read\power_supply_read\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Letov2\tools\power_supply_read\power_supply_read\obj\x86\Debug\Power_Supply_Read.Form1.resources
+C:\Letov2\tools\power_supply_read\power_supply_read\obj\x86\Debug\Power_Supply_Read.Properties.Resources.resources
+C:\Letov2\tools\power_supply_read\power_supply_read\bin\Debug\Power_Supply_Read.exe
+C:\Letov2\tools\power_supply_read\power_supply_read\bin\Debug\Power_Supply_Read.pdb
+C:\Letov2\tools\power_supply_read\power_supply_read\obj\x86\Debug\Power_Supply_Read.exe
+C:\Letov2\tools\power_supply_read\power_supply_read\obj\x86\Debug\Power_Supply_Read.pdb
+C:\Letov2\tools\power_supply_read\power_supply_read\bin\Debug\Power_Supply_Read.exe.config
