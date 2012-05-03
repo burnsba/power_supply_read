@@ -1,0 +1,8 @@
+power_supply_read
+
+This program is designed to be used with an Agilent power supply, specifically the E3646A (though it should work with any E364xA device). It will periodically poll the power supply over the serial port to collect voltage and current; this can be logged to a text file in real time.
+
+how to run:
+1) use windows
+2) use visual studio
+3) compile
